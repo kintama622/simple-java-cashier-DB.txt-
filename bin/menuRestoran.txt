@@ -1,0 +1,4 @@
+Makanan,bakso,12000.0
+Makanan,mie,5000.0
+makanan,pizza,80000.0
+makanan,seblak,20000.0
